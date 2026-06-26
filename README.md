@@ -26,4 +26,4 @@ The accompanying dashboard includes:
 ## How to Run 
 1. Run the scripts in '/database/schema.sql'
    inside your SQL editor.
-2. Open '/frontend/index.html' in any browser the view the dashboard interface.
+2. Open ' https://nooruddinmallick081-lab.github.io/Smart-Campus-Cafeteria-Tracker-/' in any browser the view the dashboard interface.
